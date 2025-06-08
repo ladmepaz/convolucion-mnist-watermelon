@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MKRVUeWW)
 # Clasificación de Dígitos MNIST con Redes Neuronales Convolucionales
 
-# Integrantes: Mathews Marquez, Jorge Usuga
+## Integrantes: Mathews Marquez, Jorge Usuga
 
 ### Descripción de la tarea
 Este proyecto demuestra la implementación y análisis de una Red Neuronal Convolucional (CNN) pre-entrenada para la clasificación de dígitos MNIST. El cuaderno incluye varios ejercicios para comprender y visualizar el comportamiento del modelo, incluyendo visualización de kernels, operaciones de convolución y predicciones en imágenes personalizadas.
